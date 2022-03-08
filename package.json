@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@zondax/filecoin-signing-tools": "^0.20.1",
+    "axios": "^0.26.0",
+    "bip39": "^3.0.4",
+    "node": "^17.5.0",
+    "request": "^2.88.2"
+  }
+}

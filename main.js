@@ -72,7 +72,7 @@ const config = {
     method: 'post',
     url: 'https://dev.node.glif.io/calibrationapi/lotus/rpc/v0',
     headers: { 
-        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.OAHyV5YqXe34-Hd4nwYNdHn2qaPS5veIq21xPYXzq7s', 
+        'Authorization': 'Bearer ', 
         'Content-Type': 'application/json'
     },
     data : data

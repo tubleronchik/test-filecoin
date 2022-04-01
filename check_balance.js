@@ -16,7 +16,7 @@ const req = {
     method: 'post',
     url: 'https://dev.node.glif.io/calibrationapi/lotus/rpc/v0',
     headers: { 
-        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiXX0.etYIIxqdpxdmLLzdsgj3ThFNPnFA2Fq6trXzmTYlPR8', 
+        'Authorization': 'Bearer ', 
         'Content-Type': 'application/json'
     },
     data : check_balance
